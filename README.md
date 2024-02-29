@@ -1,1 +1,2 @@
-# Amazon-Project-Clone-
+# Amazon-Project-Clone<br>
+Basic UI page design
